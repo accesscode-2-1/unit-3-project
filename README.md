@@ -34,7 +34,7 @@ With that in mind, things to think about when ideating projects are the **techni
   - Technically complex
   - Compelling use case
   - Polished implementation (UI/UX)
-  - Original product with uniqueness in the market
+  - Original product 
   - Proper release to Play
   - An engaging pitch that connects with the audience
 *  Basic technical requirements 
