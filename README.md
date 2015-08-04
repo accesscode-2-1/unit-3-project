@@ -18,7 +18,6 @@ With that in mind, things to think about when ideating projects are the **techni
     3.  Mingle  
     4.  Form Teams  
   *  Support: 
-    *  Team-specific technical mentor
     *  Weekly technical office hours
     *  Weekly product office hours
   *  Process:
