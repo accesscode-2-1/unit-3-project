@@ -14,11 +14,11 @@ Please put the link to your repository on this repo's readme (in the "Groups" ta
 
 # Access Code 2.1 Final Project Proposal
 
-### Please submit the final project proposal by 10:00pm on Sunday 8/9/2015. You will receive feedback on the proposal on Tuesday 8/11 and be asked to review and incorporate this feedback, and resubmit a revised proposal by 11:00pm on Tuesday 8/11.
+#### Please submit the final project proposal by 10:00pm on Sunday 8/9/2015. You will receive feedback on the proposal on Tuesday 8/11 and be asked to review and incorporate this feedback, and resubmit a revised proposal by 11:00pm on Tuesday 8/11.
 
-***Project Name***
-***Team Name***
-***Team Members***
+***Project Name***  
+***Team Name***  
+***Team Members***  
 
 ## The Problem 
 Describe the problem that your app will address. This does not need to be a novel idea or product, but your app should not directly recreate an existing product. If you are basing the app on an existing product, there should be some edge to your design or feature that solves a problem with that existing product.   
