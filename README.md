@@ -30,14 +30,14 @@ With that in mind, things to think about when ideating projects are the **techni
     *  Weekly Retro @Sunday Class
 
 ### Project Requirements  
-*  Projects Shoud Be/Have:
+*  Overall product requirements
   - Technically complex
   - Compelling use case
   - Polished implementation (UI/UX)
   - Original product with uniqueness in the market
   - Proper release to Play
   - An engaging pitch that connects with the audience
-*  Basic Requirements:  
+*  Basic technical requirements 
   - Does not crash
   - Does not hang (little or no delay visible to the user)
   - Does not fail when internet connection is slow/unavaialable
