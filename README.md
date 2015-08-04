@@ -8,7 +8,7 @@ You’ll be asked to form teams and propose a product of your own design. We wil
   *  Technically complex and ambitious enough to highlight the skills you have gained
   *  Fully functional and polished for presentation at Demo Day  
 
-With that in mind, things to think about when ideating projects are the **technical complexity**, **design**, **product**, and **quality of idea**.  
+With that in mind, things to think about when ideating projects are the **technical complexity**, **design**, and **product**..  
 
 ### Guidelines  
   *  Team Size: 3-4
@@ -89,7 +89,7 @@ With that in mind, things to think about when ideating projects are the **techni
   - Super cool library that other devs could use
   - Integration of complex APIs (e.g video, web services, etc...)
   - Awesome UI
-  - Work with the OS in a more intimate way (ie [Twilight App](https://play.google.com/store/apps/details?id=com.urbandroid.lux&hl=en)
+  - Work with the OS in a more intimate way (ie [Twilight App](https://play.google.com/store/apps/details?id=com.urbandroid.lux&hl=en))
   - Advanced Separation of Concerns ([MVP/MVC-style architecture](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/))
 *  Things to Avoid:
   -  Unusable: Good technical implementation, but does not consider the end user's interaction
