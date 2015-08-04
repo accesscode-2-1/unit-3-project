@@ -41,6 +41,7 @@ With that in mind, things to think about when ideating projects are the **techni
   - Does not hang (little or no delay visible to the user)
   - Does not fail when internet connection is slow/unavaialable
   - Have a consistent look and feel visually across the app
+  - Consistent with [Material Design](https://www.google.com/design/spec/material-design/introduction.html) guidelines
   - Look great in both landscape and portrait
   - Have well-organized, high-quality code
     -  Clean coding style (see this sample [style guide](http://www.javaranch.com/style.jsp) and the [Android project’s official guide](https://source.android.com/source/code-style.html))
