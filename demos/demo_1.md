@@ -4,6 +4,6 @@
 
 #### Logistics
 
-#### Demo Reminders
+#### [Demo Reminders](practice_demo_guidelines.md)
 
 #### Schedule
