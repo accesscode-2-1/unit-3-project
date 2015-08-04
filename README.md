@@ -1,6 +1,6 @@
 # unit-3-project  
 
-#### Description
+### Description
 
 ### Schedule + Deadlines  
 | Week | Date | Milestone | Deliverables | 
