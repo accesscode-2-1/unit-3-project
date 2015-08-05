@@ -57,7 +57,7 @@ With that in mind, things to think about when ideating projects are the **techni
 | Week | Date | Milestone | Deliverables | 
 |---|---|---|---|
 | Week 1 | Tue Aug 3, 7pm | Final Project Kickoff! | |
-| Week 1 | Sun Aug 9, 6pm | Project Proposals Due | [Proposal Submission](deliverables/ProposalTemplate.md) |
+| Week 1 | Sun Aug 9, 10pm | Project Proposals Due | [Proposal Submission](deliverables/ProposalTemplate.md) |
 | Week 2 | Tue Aug 11, 10pm | Project Revisions Due | [Proposal Submission](deliverables/ProposalTemplate.md) |
 | Week 2 | Sun Aug 16, 6pm | Weekly Retro Due | [Weekly Retro Format](deliverables/WeeklyRetroTemplate.md) |
 | Week 3 | Thu Aug 20, 7pm | Midway Demo to Class | [Demo Guidelines]() |
