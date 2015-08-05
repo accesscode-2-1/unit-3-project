@@ -22,7 +22,7 @@ With that in mind, things to think about when ideating projects are the **techni
     *  Weekly product office hours
   *  Process:
     *  6-Week Release Cycle
-      - Week 0: Planning + [Proposal]()  
+      - Week 0: Planning + [Proposal](https://github.com/accesscode-2-1/unit-3-project/blob/master/deliverables/ProposalTemplate.md)  
       - Week 1-3: Building
       - Week 4-5: Testing + Modifications
     *  Daily Standup @Class
