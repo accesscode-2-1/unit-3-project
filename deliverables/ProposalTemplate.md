@@ -1,6 +1,7 @@
 # Final Project Proposal Submission  
 
-### The following is due Sun, Aug 9 at 6pm:  
+### The following is due Sun, Aug 9 at 10pm:  
+*note: this deadline has been revised...An earlier version of this said it was due at 6pm.
   
 Please create a repository for your final project, with the following contents:  
   *  README with your group members  
@@ -14,7 +15,7 @@ Please put the link to your repository on this repo's readme (in the "Groups" ta
 
 # Access Code 2.1 Final Project Proposal
 
-#### Please submit the final project proposal by 10:00pm on Sunday 8/9/2015. You will receive feedback on the proposal on Tuesday 8/11 and be asked to review and incorporate this feedback, and resubmit a revised proposal by 11:00pm on Tuesday 8/11.
+#### Please submit the final project proposal by 10:00pm on Sunday 8/9/2015. You will receive feedback on the proposal on Tuesday 8/11 and be asked to review and incorporate this feedback, and resubmit a revised proposal by 10:00pm on Tuesday 8/11.
 ---
 **Project Name**  
 **Team Name**  
