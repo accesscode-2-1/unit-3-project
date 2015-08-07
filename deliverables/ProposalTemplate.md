@@ -7,7 +7,7 @@ Please create a repository for your final project, with the following contents:
   *  README with your group members  
   *  ProjectProposal.md (template below. Feel free to use the markdown from this file and fill in your responses.) 
   *  Your app
-  *  Folder that contains Weekly Retros (template [here](WeeklyRetroTemplate.md))  
+  *  Folder that contains Weekly Retros (template [here](WeeklyRetroTemplate.md)). (Empty for now)  
 
 
 ---
