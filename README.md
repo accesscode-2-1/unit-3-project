@@ -78,7 +78,7 @@ With that in mind, things to think about when ideating projects are the **techni
 | Rosemary, Sarah, Janneisy |  |  |  
 | Abass, Hans, Joshelyn |  |  |  
 | Madelyn, Anthony, Alvin |  |  |  
-| Ramona, Allison, Jae, Kadeem |  |  |  
+| Ramona, Allison, Jae, Kadeem | Access Robot | [Repo](https://github.com/jaellysbales/access-robot/tree/master)  |  
 | Charlyn, Yuliya, Sufei, Anthony M. |  |  |  
 | Vanice, Jose, Marbella, Elvis |  |  |  
 
