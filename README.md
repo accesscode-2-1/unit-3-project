@@ -73,15 +73,14 @@ With that in mind, things to think about when ideating projects are the **techni
 ### Groups  
 | Members | Team Name | Link to Repo |  
 |---|---|---|
-|  |  |  |
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
+| Luke, Ray, Hoshiko, Na |  |  |
+| Tasha, George, Jorge, John |  |  |  
+| Rosemary, Sarah, Janneisy |  |  |  
+| Abass, Hans, Joshelyn |  |  |  
+| Madelyn, Anthony, Alvin |  |  |  
+| Ramona, Allison, Jae, Kadeem |  |  |  
+| Charlyn, Yuliya, Sufei, Anthony M. |  |  |  
+| Vanice, Jose, Marbella, Elvis |  |  |  
 
 
 ### Tips & Ideas
