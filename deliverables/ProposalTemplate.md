@@ -19,7 +19,6 @@ Please create a repository for your final project, with the following contents:
 **Project Name**  
 **Team Name**  
 **Team Members**  
-**Link to Group's Repo**
 
 ## The Problem 
 Describe the problem that your app will address. This does not need to be a novel idea or product, but your app should not directly recreate an existing product. If you are basing the app on an existing product, there should be some edge to your design or feature that solves a problem with that existing product.   
