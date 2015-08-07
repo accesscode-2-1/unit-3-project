@@ -9,8 +9,7 @@ Please create a repository for your final project, with the following contents:
   *  Folder that contains your app  
   *  Folder that contains Weekly Retros (template [here](WeeklyRetroTemplate.md))  
 
-Please put the link to your repository on this repo's readme (in the "Groups" table).  
-  
+
 ---
 
 # Access Code 2.1 Final Project Proposal
