@@ -73,7 +73,7 @@ With that in mind, things to think about when ideating projects are the **techni
 ### Groups  
 | Members | Team Name | Link to Repo |  
 |---|---|---|
-| Luke, Ray, Hoshiko, Na |???|[Repo](https://github.com/lukesterlee/AccessTube/blob/master/ProjectProposal.md)|
+| Luke, Ray, Hoshiko, Na |Take 2|[Repo](https://github.com/lukesterlee/AccessTube/blob/master/ProjectProposal.md)|
 | Tasha, George, Jorge, John |  |  |  
 | Rosemary, Sarah, Janneisy |  |  |  
 | Abass, Hans, Joshelyn |  |  |  
