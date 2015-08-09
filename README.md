@@ -76,7 +76,7 @@ With that in mind, things to think about when ideating projects are the **techni
 | Luke, Ray, Hoshiko, Na |  |  |
 | Tasha, George, Jorge, John |  |  |  
 | Rosemary, Sarah, Janneisy |  |  |  
-| Abass, Hans, Joshelyn |  |  |  
+| Abass, Hans, Joshelyn |Ecquo  | (Repo) https://github.com/abassawo/Ecquo/blob/master|  
 | Madelyn, Anthony, Alvin |  |  |  
 | Ramona, Allison, Jae, Kadeem | Access Robot | [Repo](https://github.com/jaellysbales/access-robot/tree/master)  |  
 | Charlyn, Yuliya, Sufei, Anthony M. |  |  |  
