@@ -75,7 +75,7 @@ With that in mind, things to think about when ideating projects are the **techni
 |---|---|---|
 | Luke, Ray, Hoshiko, Na |Take 2|[Repo](https://github.com/lukesterlee/AccessTube/blob/master/ProjectProposal.md) |  
 | Tasha, George, Jorge, John | Momen-Tone | [Repo](https://github.com/lighterletter/Momen-Tone) |  
-| Rosemary, Sarah, Janneisy | Focus | [Focus-App](https://github.com/RosmaryFC/Focus-App) | 
+| Rosemary, Sarah, Janneisy | Focus-App | [Repo](https://github.com/RosmaryFC/Focus-App) | 
 | Abass, Hans, Joshelyn |Ecquo  | [Repo](https://github.com/abassawo/Ecquo/)  |  
 | Madelyn, Anthony, Alvin | ChipChoppers | [Repo](https://github.com/AnthonyFermin/Final-Project) |  
 | Ramona, Allison, Jae, Kadeem | Access Robot | [Repo](https://github.com/jaellysbales/access-robot/tree/master)  |  
