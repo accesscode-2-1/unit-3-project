@@ -77,7 +77,7 @@ With that in mind, things to think about when ideating projects are the **techni
 | Tasha, George, Jorge, John |  |  |  
 | Rosemary, Sarah, Janneisy |  |  |  
 | Abass, Hans, Joshelyn |  |  |  
-| Madelyn, Anthony, Alvin |  |  |  
+| Madelyn, Anthony, Alvin | ChipChoppers | [Repo](https://github.com/AnthonyFermin/Final-Project) |  
 | Ramona, Allison, Jae, Kadeem | Access Robot | [Repo](https://github.com/jaellysbales/access-robot/tree/master)  |  
 | Charlyn, Yuliya, Sufei, Anthony M. |  |  |  
 | Vanice, Jose, Marbella, Elvis |  |  |  
