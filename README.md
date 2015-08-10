@@ -74,7 +74,7 @@ With that in mind, things to think about when ideating projects are the **techni
 | Members | Team Name | Link to Repo |  
 |---|---|---|
 | Luke, Ray, Hoshiko, Na |  |  |
-| Tasha, George, Jorge, John | Momen-Tone | [Repo](https://github.com/lighterletter/Momen-Tone) |  
+| Tasha, George, Jorge, John |  |  |  
 | Rosemary, Sarah, Janneisy |  |  |  
 | Abass, Hans, Joshelyn |  |  |  
 | Madelyn, Anthony, Alvin | ChipChoppers | [Repo](https://github.com/AnthonyFermin/Final-Project) |  
