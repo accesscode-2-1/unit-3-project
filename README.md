@@ -73,14 +73,14 @@ With that in mind, things to think about when ideating projects are the **techni
 ### Groups  
 | Members | Team Name | Link to Repo |  
 |---|---|---|
-| Luke, Ray, Hoshiko, Na |  |  |
+| Luke, Ray, Hoshiko, Na |Take 2|[Repo](https://github.com/lukesterlee/AccessTube/blob/master/ProjectProposal.md) |  
 | Tasha, George, Jorge, John | Momen-Tone | [Repo](https://github.com/lighterletter/Momen-Tone) |  
-| | Rosemary, Sarah, Janneisy | Focus | [Focus-App](https://github.com/RosmaryFC/Focus-App) | 
-| Abass, Hans, Joshelyn |  |  |  
+| Rosemary, Sarah, Janneisy | Focus | [Focus-App](https://github.com/RosmaryFC/Focus-App) | 
+| Abass, Hans, Joshelyn |Ecquo  | [Repo](https://github.com/abassawo/Ecquo/)  |  
 | Madelyn, Anthony, Alvin | ChipChoppers | [Repo](https://github.com/AnthonyFermin/Final-Project) |  
 | Ramona, Allison, Jae, Kadeem | Access Robot | [Repo](https://github.com/jaellysbales/access-robot/tree/master)  |  
-| Charlyn, Yuliya, Sufei, Anthony M. | Shamer | [Repo] (https://github.com/charlyn23/ProjectX)  |  
-| Vanice, Jose, Marbella, Elvis | Espy | [Repo] (https://github.com/jgarcia162/Espy) |  
+| Charlyn, Yuliya, Sufei, Anthony M. | Shamer | [Repo](https://github.com/charlyn23/ProjectX)  |  
+| Vanice, Jose, Marbella, Elvis | Espy | [Repo](https://github.com/jgarcia162/Espy) |  
 
 
 ### Tips & Ideas
