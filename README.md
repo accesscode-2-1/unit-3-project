@@ -8,7 +8,7 @@ You’ll be asked to form teams and propose a product of your own design. We wil
   *  Technically complex and ambitious enough to highlight the skills you have gained
   *  Fully functional and polished for presentation at Demo Day  
 
-With that in mind, things to think about when ideating projects are the **technical complexity**, **design**, and **product**..  
+With that in mind, things to think about when ideating projects are the **technical complexity**, **design**, and **product**.  
 
 ### Guidelines  
   *  Team Size: 3-4
