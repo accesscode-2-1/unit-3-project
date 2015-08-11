@@ -12,21 +12,24 @@
   *  What should we do differently next time?
   *  What did we learn?
   *  What still puzzles us?
-  *  Did each team member meet their goals? Why or why not?
  
 **Individual Team Members**
 
   *  Team Member #1
     * Goals/Responsibilities Last Week:
+    * Did you meet your goals/responsibilities last week? Why or why not?
     * Goals/Responsibilities This Week:
-  *  Team Member #2
+  *  Team Member #2    
     * Goals/Responsibilities Last Week:
+    * Did you meet your goals/responsibilities last week? Why or why not?
     * Goals/Responsibilities This Week:
   *  Team Member #3
     * Goals/Responsibilities Last Week:
+    * Did you meet your goals/responsibilities last week? Why or why not?
     * Goals/Responsibilities This Week:
   *  (Team Member #4)
     * Goals/Responsibilities Last Week:
+       * Did you meet your goals/responsibilities last week? Why or why not?
     * Goals/Responsibilities This Week:
 
 **Additional Potential Discussion Topics**:
