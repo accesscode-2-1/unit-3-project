@@ -16,12 +16,12 @@
 
 **Additional Topics to Discuss**:
 
-  *  Results: Compare your work planned with what you actually completed. 
+  *  Compare your work planned with what your work completion. 
 
-  *  People: Is your team composition working out?
+  *  Is the divison of roles in your team working?
 
-  *  Relationships: How is your communication and collaboration going?
+  *  How is communication and collaboration between team members?
 
-  *  Processes: Go over getting support, development, and code review processes.
+  *  Are you getting adequate support? How are you reviewing code?
 
-  *  Productivity: How can you improve productivity and get the most work done within the next week?
+  *  How can you improve productivity and get the most work done within the next week?
