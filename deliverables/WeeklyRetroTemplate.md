@@ -13,7 +13,7 @@
   *  What did we learn?
   *  What still puzzles us?
  
-**Individual Team Members**
+**Team Member Analysis**:
 
   *  Team Member #1
     * Goals/Responsibilities Last Week:
