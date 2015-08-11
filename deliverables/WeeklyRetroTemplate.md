@@ -1,5 +1,7 @@
 ## Weekly Retro Template  
 
+**Goals for last Sprint**:
+
 **Goals for this Sprint**:
 
 **Agenda for this Sprint**:
@@ -15,21 +17,17 @@
 **Individual Team Members**
 
   *  Team Member #1
-    * Goal:
-    * Responsibilities This Week:
-    * Responsibilities Next Week:
+    * Goals/Responsibilities Last Week:
+    * Goals/Responsibilities This Week:
   *  Team Member #2
-    * Goal:
-    * Responsibilities This Week:
-    * Responsibilities Next Week:
+    * Goals/Responsibilities Last Week:
+    * Goals/Responsibilities This Week:
   *  Team Member #3
-    * Goal:
-    * Responsibilities This Week:
-    * Responsibilities Next Week:
+    * Goals/Responsibilities Last Week:
+    * Goals/Responsibilities This Week:
   *  (Team Member #4)
-    * Goal:
-    * Responsibilities This Week:
-    * Responsibilities Next Week:
+    * Goals/Responsibilities Last Week:
+    * Goals/Responsibilities This Week:
 
 **Additional Potential Discussion Topics**:
 
