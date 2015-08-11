@@ -18,7 +18,7 @@
 
   *  Compare your work planned with what your work completed. 
 
-  *  Is the divison of roles in your team working?
+  *  Is the divison of roles within your team working?
 
   *  How is communication and collaboration between team members?
 
