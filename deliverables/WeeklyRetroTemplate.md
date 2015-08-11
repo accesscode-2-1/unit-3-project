@@ -17,15 +17,15 @@
 
   *  Team Member #1
     * Goals/Responsibilities Last Week:
-    * Did you meet your goals/responsibilities last week? Why or why not?
+        * Did you meet your goals/responsibilities last week? Why or why not?
     * Goals/Responsibilities This Week:
   *  Team Member #2    
     * Goals/Responsibilities Last Week:
-    * Did you meet your goals/responsibilities last week? Why or why not?
+         * Did you meet your goals/responsibilities last week? Why or why not?
     * Goals/Responsibilities This Week:
   *  Team Member #3
     * Goals/Responsibilities Last Week:
-    * Did you meet your goals/responsibilities last week? Why or why not?
+        * Did you meet your goals/responsibilities last week? Why or why not?
     * Goals/Responsibilities This Week:
   *  (Team Member #4)
     * Goals/Responsibilities Last Week:
