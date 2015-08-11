@@ -12,6 +12,7 @@
   *  What still puzzles us?
  
 **Team Member Analysis**:
+If you did not meet your goals, how will this affect the progression of the product? What will you do differently to meet your goals this week?
 
   *  Team Member #1
     * Goals/Responsibilities Last Week:
