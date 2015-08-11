@@ -4,8 +4,6 @@
 
 **Goals for this Sprint**:
 
-**Agenda**:
-
 **Guiding Questions** (consider before the meeting):
 
   *  What went well?
@@ -32,7 +30,7 @@
        * Did you meet your goals/responsibilities last week? Why or why not?
     * Goals/Responsibilities This Week:
 
-**Additional Potential Discussion Topics**:
+**Additional Discussion Topics**:
 
   *  Compare your work planned with what your work completed. 
   *  Is the divison of roles within your team working?
