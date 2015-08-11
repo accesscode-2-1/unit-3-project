@@ -14,7 +14,7 @@
 
   *  What still puzzles us?
 
-**Potential Other Questions to Discuss**:
+**Additional Potential Discussion Topics**:
 
   *  Compare your work planned with what your work completed. 
 
@@ -25,3 +25,5 @@
   *  Are you getting adequate support? How are you reviewing code?
 
   *  How can you improve productivity and get the most work done within the next week?
+
+**Mentor Comments**
