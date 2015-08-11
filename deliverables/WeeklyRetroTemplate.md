@@ -14,9 +14,9 @@
 
   *  What still puzzles us?
 
-**Additional Topics to Discuss**:
+**Potential Other Questions to Discuss**:
 
-  *  Compare your work planned with what your work completion. 
+  *  Compare your work planned with what your work completed. 
 
   *  Is the divison of roles in your team working?
 
