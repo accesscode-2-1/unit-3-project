@@ -4,7 +4,7 @@
 
 **Goals for this Sprint**:
 
-**Agenda for this Sprint**:
+**Agenda**:
 
 **Guiding Questions** (consider before the meeting):
 
