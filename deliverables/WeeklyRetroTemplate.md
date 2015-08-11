@@ -15,21 +15,21 @@
 **Individual Team Members**
 
   *  Team Member #1
-   *Goal:
-   *Responsibilities This Week:
-   *Responsibilities Next Week:
+    *Goal:
+    *Responsibilities This Week:
+    *Responsibilities Next Week:
   *  Team Member #2
-   *Goal:
-   *Responsibilities This Week:
-   *Responsibilities Next Week:
+    *Goal:
+    *Responsibilities This Week:
+    *Responsibilities Next Week:
   *  Team Member #3
-   *Goal:
-   *Responsibilities This Week:
-   *Responsibilities Next Week:
+    *Goal:
+    *Responsibilities This Week:
+    *Responsibilities Next Week:
   (*  Team Member #4)
-   *Goal:
-   *Responsibilities This Week:
-   *Responsibilities Next Week:
+    *Goal:
+    *Responsibilities This Week:
+    *Responsibilities Next Week:
 
 **Additional Potential Discussion Topics**:
 
