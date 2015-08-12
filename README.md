@@ -77,7 +77,7 @@ With that in mind, things to think about when ideating projects are the **techni
 | Tasha, George, Jorge, John | Momen-Tone | [Repo](https://github.com/lighterletter/Momen-Tone) | Abhi, John |
 | Rosemary, Sarah, Janneisy | Focus-App | [Repo](https://github.com/RosmaryFC/Focus-App) | Yang |
 | Abass, Hans, Joshelyn |Ecquo  | [Repo](https://github.com/abassawo/Ecquo/)  | Robert |
-| Madelyn, Anthony, Alvin | ChipChoppers | [Repo](https://github.com/AnthonyFermin/Final-Project) | Tony |
+| Madelyn, Anthony, Alvin | ChipChop | [Repo](https://github.com/AnthonyFermin/Final-Project) | Tony |
 | Ramona, Allison, Jae, Kadeem | Access Robot | [Repo](https://github.com/jaellysbales/access-robot/tree/master)  | Jeff D., Kenny | 
 | Charlyn, Yuliya, Sufei, Anthony M. | Shamer | [Repo](https://github.com/charlyn23/ProjectX)  | Dion, Joe |  
 | Vanice, Jose, Marbella, Elvis | Espy | [Repo](https://github.com/jgarcia162/Espy) |  Alessandro, Greg |
