@@ -1,11 +1,11 @@
 ## Practice Demo Guidelines
-###### August 20
+###### August 16  
 
 
 #### Logistical Necessities
+Please create your slides on Google Slides or save them as a PDF.  
 
-
-#### Demo Necessities
+#### Demo Guidelines  
 
 
 #### Schedule  
