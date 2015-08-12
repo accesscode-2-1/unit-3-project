@@ -73,7 +73,7 @@ With that in mind, things to think about when ideating projects are the **techni
 ### Groups  
 | Members | Team Name | Link to Repo | Mentor(s) |
 |---|---|---|---|
-| Luke, Ray, Hoshiko, Na |Take 2|[Repo](https://github.com/lukesterlee/AccessTube/blob/master/ProjectProposal.md) | Sultan |
+| Luke, Ray, Hoshiko, Na |Take 2|[Repo](https://github.com/rayacevedo45/accessfoodnyc) | Sultan |
 | Tasha, George, Jorge, John | Momen-Tone | [Repo](https://github.com/lighterletter/Momen-Tone) | Abhi, John |
 | Rosemary, Sarah, Janneisy | Focus-App | [Repo](https://github.com/RosmaryFC/Focus-App) | Yang |
 | Abass, Hans, Joshelyn |Ecquo  | [Repo](https://github.com/abassawo/Ecquo/)  | Robert |
