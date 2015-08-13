@@ -1,12 +1,17 @@
-## Practice Demo Guidelines
+## Project Updates: Prototype Presentation
 ###### August 16  
 
+#### Format:
+1.  Review the problem
+2.  Explain the solution 
+3.  Demo your prototype of the MVP  
+  a.  Review retrospective notes  
+  b.  Goals for upcoming week
+4.  Challenges faced
+5.  Feedback
 
 #### Logistical Necessities
 Please create your slides on Google Slides or save them as a PDF.  
-
-#### Demo Guidelines  
-
 
 #### Schedule  
   
