@@ -9,7 +9,8 @@
 4.  Review retrospective notes  
   a.  Goals for upcoming week  
   b.  Challenges faced
-5.  Feedback
+5.  Feedback  
+   *Use this as an opportunity to consult your potential users, get feedback on features, UI, etc.*
 
 #### Schedule  
   
