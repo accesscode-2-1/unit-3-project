@@ -1,7 +1,7 @@
 ## Project Updates: Prototype Presentation
 ###### August 16  
 
-#### Format:
+#### Format
 1.  Review the problem
 2.  Explain the solution 
 3.  Demo your prototype  
@@ -11,7 +11,7 @@
   b.  Challenges faced
 5.  Feedback
 
-#### Logistical Necessities
+#### Logistics
 Please create your slides on Google Slides or save them as a PDF.  
 
 #### Schedule  
