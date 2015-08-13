@@ -5,14 +5,11 @@
 1.  Review the problem
 2.  Explain the solution 
 3.  Demo your prototype  
-    *This should be a working prototype* - a single app with workign core features (not just UI)
+    *This should be a working prototype* - a single app with working core features (not just UI)
 4.  Review retrospective notes  
   a.  Goals for upcoming week  
   b.  Challenges faced
 5.  Feedback
-
-#### Logistics
-Please create your slides on Google Slides or save them as a PDF.  
 
 #### Schedule  
   
