@@ -22,3 +22,6 @@
 6.  Access Robot  
 7.  Shamer  
 8.  Espy  
+
+### Exit Ticket  
+Please submit the exit ticket [here](https://docs.google.com/forms/d/1fg2reVfksZtYsKkjtXb2o7-0ZXRf1FoHr1ufWAVAZWw/viewform).  
