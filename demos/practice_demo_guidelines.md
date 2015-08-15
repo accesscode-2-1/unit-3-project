@@ -13,6 +13,7 @@
    *Use this as an opportunity to consult your potential users, get feedback on features, UI, etc.*
 
 #### Schedule  
+*Each team will have 15 minutes total - up to 10 minutes to speak and 5 additional minutes for questions*
   
 1.  Take 2
 2.  Momen-Tone  
