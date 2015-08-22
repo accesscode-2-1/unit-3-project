@@ -61,7 +61,7 @@ With that in mind, things to think about when ideating projects are the **techni
 | Week 2 | Wed Aug 12, 5pm | Project Revisions Due | [Proposal Submission](deliverables/ProposalTemplate.md) |
 | Week 2 | Sun Aug 16, 6pm | Weekly Retro Due + Project Updates: Prototype Presentation | [Weekly Retro Format](deliverables/WeeklyRetroTemplate.md) and [Update Guidelines](demos/practice_demo_guidelines.md) |
 | Week 3 | Thu Aug 20, 7pm | -- | -- |
-| Week 3 | Sun Aug 23, 6pm | Weekly Retro Due | [Weekly Retro Format](deliverables/WeeklyRetroTemplate.md) |
+| Week 3 | Sun Aug 23, 6pm | Weekly Retro Due + Project Updates| [Weekly Retro Format](deliverables/WeeklyRetroTemplate.md) |
 | Week 4 | Sun Aug 30, 6pm | Weekly Retro Due | [Weekly Retro Format](deliverables/WeeklyRetroTemplate.md) |
 | Week 5 | Tue Sep 1, 7pm | First Release + Demo | [Demo Schedule]() |
 | Week 5 | Sun Sep 6, 7pm | Weekly Retro Due | [Weekly Retro Format](deliverables/WeeklyRetroTemplate.md) |
