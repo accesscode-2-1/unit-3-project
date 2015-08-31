@@ -13,6 +13,10 @@ Each team will have 4 minutes to demo their app. Remember to present a polished 
 **Deliverables**  
 Please submit your team's demo presentation and *_product tagline_* [here](http://goo.gl/forms/mkKH1eiSqk) by Tuesday 9/1 at 7pm. 
 
+Please also create slides for your presentation, including at least one slide for each person on the team (name + picture) that should be displayed during personal pitches, and a slide that can be referenced while talking about the problem your product is aiming to solve. 
+
+*Hint: The audience should always have something relevant to look at during your demo*
+
 #### Schedule  
 *Each team will have 1 minute per team member to do a personal introduction + 4 minutes to demo the app. You will present in the following order.*
   
